@@ -1,0 +1,41 @@
+.quadrados{
+    border:0px;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+#borda{
+    width: 100px;
+    height: 100px;
+    background-color: red;               
+    border: 1px solid black;
+    display: inline-block;
+}
+#vermelho{
+    border:0px;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    display: inline-block;               
+}
+#azul{
+    border:0px;
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    display: inline-block;               
+}
+#verde{
+    border:0px;
+    width: 100px;
+    height: 100px;
+    background-color: green;
+    display: inline-block;               
+}
+#amarelo{
+    border:0px;
+    width: 100px;
+    height: 100px;
+    background-color:yellow;
+    display: inline-block;               
+}
